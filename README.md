@@ -8,10 +8,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Software requirements:
 
 ```
-Give examples
+pip install selenium
+pip install bs4
+pip install unicodedata
+pip install pandas
+pip install mechanize
 ```
 
 ### Installing
