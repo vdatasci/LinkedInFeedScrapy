@@ -1,6 +1,6 @@
 # LinkedInFeedScrapey
 
-This project helps job seekers find a job easier on LinkedIn by searching through user posts. The app logs you into LinkedIn, extracts transforms and loads News Feed articles into a database, then allows users to search posts by key words.
+LinkInFeedScrapey helps job seekers find a job easier on by searching through LinkedIn news feed posts. The app logs you into LinkedIn, extracts transforms and loads news feed articles, then allows you to search articles by key words.
 
 ## Getting Started
 
